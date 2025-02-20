@@ -1,9 +1,8 @@
 # Book-Recommendation-System
-# Build a Semantic Book Recommender with LLMs 
+# Building a Semantic Book Recommender with LLMs 
 
-This repo contains all of the code to complete the freeCodeCamp course, "Build a Semantic Book Recommender with LLMs – Full Course". There are five components to this tutorial:
 
-https://github.com/user-attachments/assets/f6e7c7bd-2a65-450b-a281-7a2939499ce5
+
 
 
 * Text data cleaning (code in the notebook `data-exploration.ipynb`)
@@ -27,6 +26,10 @@ This project was initially created in Python 3.11. In order to run the project, 
 * [ipywidgets](https://pypi.org/project/ipywidgets/)
 
 A requirements.txt file containing all the project dependencies is provided as part of this repo.
+
+
+Project Snapshot
+https://github.com/user-attachments/assets/f6e7c7bd-2a65-450b-a281-7a2939499ce5
 
 In order to create your vector database, you'll need to create a .env file in your root directory containing your OpenAI API key. Instructions on how to do this are part of the tutorial.
 
